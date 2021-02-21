@@ -17,7 +17,7 @@ net = net.(subsref(fieldnames(net),substruct('{}',{1})));
 
 % Test the net on the synthetic fringe images, show the results on the
 % plots with the ground truth output
-for i=1:1:inputFilesSize(1)
+for i=1:inputFilesSize(1)
     tempInputFileName = strcat(...
             inputFileNames(i).folder, '\', inputFileNames(i).name);
     tempOutputFileName = strcat(...
