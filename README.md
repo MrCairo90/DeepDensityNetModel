@@ -1,9 +1,9 @@
 # DeepDensityNetModel
 This repository contains a trained net model for computing fringes density with some example data and MATLAB script for the DeepDensity net evaluation. The train process explained in the artcile "DeepDensity: convolutional neural network based estimation of local fringe pattern density" <br/>
-[TODO: Add link to the manuscript]<br/>
+https://doi.org/10.1016/j.optlaseng.2021.106675<br/>
 
 This code can be used freely for research purposes, but please cite some adequate paper:<br/>
-[TODO: add citiation text]<br/>
+M. Cywińska, F. Brzeski, W. Krajnik, K. Patorski, C. Zuo, M. Trusiak, "DeepDensity: Convolutional neural network based estimation of local fringe pattern density," Optics and Lasers in Engineering 145, 106675 (2021).<br/>
 
 Authors:<br/>
 Maria Cywińska[1], Filip Brzeski[1], Wiktor Krajnik[1], Krzysztof Patorski[1], Chao Zuo[2], Maciej Trusiak[1]<br/>
